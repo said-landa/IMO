@@ -1,8 +1,8 @@
-PWD /Users/cristosaidsalaslandaverde/Documents/imo/1999
+PWD /Users/cristosaidsalaslandaverde/Documents/IMO/1999
 INPUT /usr/local/texlive/2025basic/texmf.cnf
 INPUT /usr/local/texlive/2025basic/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025basic/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/cristosaidsalaslandaverde/Documents/imo/1999/1999.tex
+INPUT /Users/cristosaidsalaslandaverde/Documents/IMO/1999/1999.tex
 OUTPUT 1999.log
 INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
@@ -23,6 +23,12 @@ INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/graphics.cf
 INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./1999.aux
@@ -57,3 +63,4 @@ INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
