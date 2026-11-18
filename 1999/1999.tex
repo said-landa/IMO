@@ -12,10 +12,11 @@
 
 \section{Problem 1}
 
-\noindent{\large\emph{Note.} \(S\) is the set of dots in the plane. The line in the problem is the perpendicular bisector of the segment joining two chosen dots \(A\) and \(B\)} \\
+\noindent{\large\emph{Note.} \(S\) is a finite collection of at least three dots in the plane. A bisector divides something into two equal parts. A centroid is a specific kind of center: it is the average position of all the dots.} \\
 \noindent{\large \\
-   Let $O$ be the centroid of $S$, obtained by averaging the coordinates of its points. For any distinct points $A,B\in S$,
-   the perpendicular bisector of $AB$ passes through $0$.
+   Let $O$ be the centroid of $S$, obtained by averaging the coordinates of its points. For any two distinct points $A,B\in S$,
+   the perpendicular bisector of $AB$ passes through $O$. A reflection across this bisector maps \(S\) onto itself, so it fixes its centroid \(O\)
+   and sends \(A\) to \(B\), so \(OA\) = \(OB\).
    \begin{center}
     \begin{picture}(120,50)
 
@@ -33,7 +34,7 @@
         \put(83,20){\line(2,5){4}}
     \end{picture}
     \end{center}
-    The reflection fixes \(O\) and sends \(A\) to \(B\), so \(OA=OB\)
+    Thus all points of \(S\) lie on a circle centered at \(O\). Because \(A\) and \(B\) were arbitrary, every point has the same distance from \(O\). That shared distance is the circle's radius.
 }
 
 \end{document}
