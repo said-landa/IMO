@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1795145815.89439 "/Users/cristosaidsalaslandaverde/Documents/IMO/1999/1999.tex" "1999.pdf" "1999" 1795145816.20374 0
-  "/Users/cristosaidsalaslandaverde/Documents/IMO/1999/1999.tex" 1795145815.65497 2783 aa4d46c93919cffa496269c236a8474f ""
+["pdflatex"] 1795239327.37599 "/Users/cristosaidsalaslandaverde/Documents/IMO/1999/1999.tex" "1999.pdf" "1999" 1795239327.68288 0
+  "/Users/cristosaidsalaslandaverde/Documents/IMO/1999/1999.tex" 1795239327.10702 2875 1424fd87f6d24e31cf0b5ca80c19c1e4 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -106,8 +106,8 @@
   "/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1764036071 79187 04b17f8738f833a5a5f7867124477b59 ""
   "/usr/local/texlive/2025basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1741448339 2663854 a6f6b8c904d47faabe5d94cfdac61310 ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
-  "1999.aux" 1795145816.16711 129 9cb9f28b06c078d5ac4fed49e3f5d233 "pdflatex"
-  "1999.tex" 1795145815.65497 2783 aa4d46c93919cffa496269c236a8474f ""
+  "1999.aux" 1795239327.64671 129 9cb9f28b06c078d5ac4fed49e3f5d233 "pdflatex"
+  "1999.tex" 1795239327.10702 2875 1424fd87f6d24e31cf0b5ca80c19c1e4 ""
   (generated)
   "1999.aux"
   "1999.log"
